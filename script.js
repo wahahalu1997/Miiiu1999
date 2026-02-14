@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
+    "https://media.tenor.com/qxgqr8nhwgEAAAAi/begging-im.gif",    // 0 normal
+    "https://media.tenor.com/LC74nzQObQ0AAAAj/bubu-dudu.gif",  // 1 confused
+    "https://media.tenor.com/J1RlH1ppxRgAAAAi/sad-sappy.gif",             // 2 pleading
+    "https://media.tenor.com/bHyK6nL7mykAAAAi/sad-sadge.gif",             // 3 sad
+    "https://c.tenor.com/O2MrNW0irFAAAAAC/tenor.gif",       // 4 sadder
+    "https://media.tenor.com/J87JzfGbPe4AAAAi/hard-time-hard-day.gif",             // 5 devastated
     "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://c.tenor.com/ZYQEWOHDegkAAAAd/tenor.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
+    "try saying no first... 😏",
+    "go on, hit no... just once ",
     "you're missing out 😈",
-    "click no, I dare you 😏"
+    "click no, I dare you hahahaha😏"
 ]
 
 let yesTeasedCount = 0
